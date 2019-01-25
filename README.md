@@ -12,7 +12,7 @@ this is a full featured android blog</br>
   
 <h2>ScreenShots</h2>
 
-<h2>Home Screen</h2></br><img src="../master/AndroidBlog/static/css/home.png?raw=true"/></br
+<h2>Home Screen</h2></br><img src="../master/AndroidBlog/static/css/main.png?raw=true"/></br
       <h2>Login page</h2></br><img src="../master/AndroidBlog/static/css/login.png?raw=true" /></br>
      <h2>SignUp page</h2></br><img src="../master/AndroidBlog/static/css/signup.png?raw=true"  /></br>
   
