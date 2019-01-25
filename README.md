@@ -18,7 +18,7 @@ this is a full featured android blog</br>
   
    <h2>Account Page</h2></br><img src="../master/AndroidBlog/static/css/profile.png?raw=true"  /></br>
       <h2>Add post page</h2></br><img src="../master/AndroidBlog/static/css/add.png?raw=true"  /></br
-      <h2>update Delete Page</h2></br><img src="../master/AndroidBlog/static/css/update_del.png?raw=true" width="350" height="400" />
+      <h2>update Delete Page</h2></br><img src="../master/AndroidBlog/static/css/update_del.png?raw=true" />
   </br>
   
 
