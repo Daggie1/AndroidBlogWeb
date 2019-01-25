@@ -8,7 +8,7 @@ this is a full featured android blog</br>
 
 --------to install------</br>
 1.clone the repo</br>
-2.download and open repo on android android studio</br>
+2.download and open repo on  pycharm </br>
   
 <h2>ScreenShots</h2>
 
