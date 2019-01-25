@@ -12,19 +12,15 @@ this is a full featured android blog</br>
   
 <h2>ScreenShots</h2>
 
-<table>
+<h2>Home Screen</h2></br><img src="../master/AndroidBlog/static/css/home.png?raw=true"/></br
+      <h2>Login page</h2></br><img src="../master/AndroidBlog/static/css/login.png?raw=true" /></br>
+     <h2>SignUp page</h2></br><img src="../master/AndroidBlog/static/css/signup.png?raw=true"  /></br>
   
-  <tr>
-   <td><h2>Home Screen</h2></br><img src="../master/AndroidBlog/static/css/home.png?raw=true" width="350" height="400" /></td>
-      <td><h2>Login page</h2></br><img src="../master/AndroidBlog/static/css/login.png?raw=true" width="350" height="400" /></td>
-      <td><h2>SignUp page</h2></br><img src="../master/AndroidBlog/static/css/signup.png?raw=true" width="350" height="400" /></td>
-  </tr>
-  <tr>
-   <td><h2>Account Page</h2></br><img src="../master/AndroidBlog/static/css/profile.png?raw=true" width="350" height="400" /></td>
-      <td><h2>Add post page</h2></br><img src="../master/AndroidBlog/static/css/add.png?raw=true" width="350" height="400" /></td>
-      <td><h2>update Delete Page</h2></br><img src="../master/AndroidBlog/static/css/update_del.png?raw=true" width="350" height="400" /></td>
-  </tr>
+   <h2>Account Page</h2></br><img src="../master/AndroidBlog/static/css/profile.png?raw=true"  /></br>
+      <h2>Add post page</h2></br><img src="../master/AndroidBlog/static/css/add.png?raw=true"  /></br
+      <h2>update Delete Page</h2></br><img src="../master/AndroidBlog/static/css/update_del.png?raw=true" width="350" height="400" />
+  </br>
   
 
-  </table>
+
 
